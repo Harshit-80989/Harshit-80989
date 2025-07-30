@@ -28,7 +28,7 @@
 - 👨‍💻 All of my projects are available at [GitHub/Harshit-80989](https://github.com/Harshit-80989)
 - 🏆 Contributor at **GirlScript Summer of Code 2024**
 - 📫 How to reach me: **harshitgupta4732@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+- 🔗 LinkedIn: https://www.linkedin.com/in/harshit-gupta-b9553335a/
 
 ---
 
@@ -63,5 +63,5 @@
 <p align="left">
   <a href="mailto:hg9807280@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/Harshit-80989"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/harshit-gupta-b9553335a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
