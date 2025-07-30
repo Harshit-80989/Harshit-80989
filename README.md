@@ -53,7 +53,7 @@
 </p>
 
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshit-80989&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/GitHub%20Streak-Active-blue?style=for-the-badge" />
 </p>
 
 ---
