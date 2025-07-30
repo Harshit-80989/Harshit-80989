@@ -12,9 +12,8 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
@@ -28,7 +27,7 @@
 - 🌱 I’m currently learning **Data Science, Machine Learning & NLP**
 - 👨‍💻 All of my projects are available at [GitHub/Harshit-80989](https://github.com/Harshit-80989)
 - 🏆 Contributor at **GirlScript Summer of Code 2024**
-- 📫 How to reach me: **hg9807280@gmail.com**
+- 📫 How to reach me: **harshitgupta4732@gmail.com**
 - 🔗 LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
 
 ---
