@@ -2,6 +2,10 @@
 <h3 align="center">B.Tech CSE '28 @ BBAU, Lucknow | Data Science Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
+  <img src="https://github.com/Harshit-80989/Harshit-80989/blob/main/profile.jpg" alt="Harshit Gupta" width="200" style="border-radius: 50%;" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshit-80989&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit-80989" />
 </p>
 
@@ -68,4 +72,3 @@
   <a href="https://github.com/Harshit-80989"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harshit-gupta-b9553335a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
-
