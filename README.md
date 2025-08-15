@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshit Gupta</h1>
-<h3 align="center">B.Tech CSE '28 @ BBAU, Lucknow | Data Science Enthusiast | GSSoC Contributor</h3>
+<h3 align="center">B.Tech CSE '28 @ BBAU, Lucknow | Data Science Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Harshit-80989&label=Profile%20views&color=0e75b6&style=flat" alt="Harshit-80989" />
@@ -26,7 +26,10 @@
 
 - 🌱 I’m currently learning **Data Science, Machine Learning & NLP**
 - 👨‍💻 All of my projects are available at [GitHub/Harshit-80989](https://github.com/Harshit-80989)
-- 🏆 Contributor at **GirlScript Summer of Code 2024**
+- 🏆 Contributor at **GirlScript Summer of Code 2024**  
+  ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge)
+- ✅ **Merged Pull Requests in Open Source Projects** 🎯  
+  [![GitHub PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3AHarshit-80989%2Bis%3Amerged&query=total_count&label=Merged%20PRs&color=brightgreen&style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3AHarshit-80989+is%3Amerged)
 - 📫 How to reach me: **harshitgupta4732@gmail.com**
 - 🔗 LinkedIn: https://www.linkedin.com/in/harshit-gupta-b9553335a/
 
@@ -65,3 +68,4 @@
   <a href="https://github.com/Harshit-80989"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/harshit-gupta-b9553335a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
+
