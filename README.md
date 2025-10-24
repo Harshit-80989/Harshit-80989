@@ -26,7 +26,7 @@
 
 - 🌱 I’m currently learning **Python programming, Object-Oriented Programming & Problem Solving**
 - 👨‍💻 All my projects and coding practice are available at [GitHub/Harshit-80989](https://github.com/Harshit-80989)
-- 🏆 Contributor at **GirlScript Summer of Code 2024**  
+- 🏆 Contributor at **GirlScript Summer of Code 2025**  
   ![GSSoC](https://img.shields.io/badge/GSSoC-Contributor-orange?style=for-the-badge)
 - ✅ **Merged Pull Requests in Open Source Projects** 🎯  
   [![GitHub PRs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dis%3Apr%2Bauthor%3AHarshit-80989%2Bis%3Amerged&query=total_count&label=Merged%20PRs&color=brightgreen&style=for-the-badge)](https://github.com/pulls?q=is%3Apr+author%3AHarshit-80989+is%3Amerged)
